@@ -1,9 +1,9 @@
-# Camping-Checkliste
+# Podstock Camping-Checkliste
 Vorbereitungen und Packliste fürs Camping.
 
-Einfache Tips und Empfehlungen.
+Einfache Tipps und Empfehlungen.
 
-Tipp: Beschrifte alle deine Sachen!
+Pro Tipp: Beschrifte alle deine Sachen!
 
 ### Schlafen
 
