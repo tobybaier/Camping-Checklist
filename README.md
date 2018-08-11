@@ -22,7 +22,7 @@
 * Hosen/Röcke/Kleider/Kilts
 * Hoodies, Pullover, Westen
 * Jacke
-* Schuhe (Sneekers, Gummistiefel, Plastikschuhe oder Flipflops zum Duschen)
+* Schuhe (**Hausschuhe**, Sneekers, Gummistiefel, Plastikschuhe oder Flipflops zum Duschen)
 * Regenschutz
 * Badeanzug, Bikini, Badehosen
 * Pyjama
@@ -90,6 +90,6 @@
 
 
 ## Links
-[1]: https://github.com/MacLemon/CongressChecklist
-[2]: https://github.com/MacLemon
-[3]: https://github.com/Columbia19/Camping-Checklist#german
+- https://github.com/MacLemon/CongressChecklist
+- https://github.com/MacLemon
+- https://github.com/Columbia19/Camping-Checklist#german
