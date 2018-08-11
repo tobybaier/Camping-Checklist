@@ -1,4 +1,9 @@
-# Camping-Checklist
+# Camping-Checkliste
+Vorbereitungen und Packliste fürs Camping.
+
+Einfache Tips und Empfehlungen.
+
+Tipp: Beschrifte alle deine Sachen!
 
 ### Schlafen
 
