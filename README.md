@@ -35,6 +35,7 @@ Pro Tipp: Beschrifte alle deine Sachen!
 
 
 ### Personal hygiene
+* Mund-Nasen-Bedeckung (am besten FFP2-Maske)
 * Zahnbürste, Zahnpasta
 * Duschgel, Shampoo, Conditioner
 * Tampons, Binden
