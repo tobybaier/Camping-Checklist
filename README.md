@@ -8,16 +8,19 @@ Pro Tipp: Beschrifte alle deine Sachen!
 ### Schlafen
 
 * Zelt
-	- Heringe
+	- Heringe / Tellerkopfschrauben
 	- Abspannseile
 	- Ösen überprüfen
 	- optionale Extrastangen, um das Zelt bei Regen und Wind abzusichern
+	- Gummihammer (zum Einschlagen von Zeltheringen)
+	- oder: Akkubohrschrauber (zum Reindrehen der Tellerkopfschrauben)
 * Isomatte
 * Feldbett
 * Luftmatratze
 * Schlafsack
 * Polster
 * Flauschedecke
+* Kuscheltier(e)
 
 ### Kleidung
 
@@ -34,7 +37,7 @@ Pro Tipp: Beschrifte alle deine Sachen!
 * Schal oder Halstuch (es könnte windig werden)
 
 
-### Personal hygiene
+### Persönliche Hygiene
 * Mund-Nasen-Bedeckung (am besten FFP2-Maske)
 * Zahnbürste, Zahnpasta
 * Duschgel, Shampoo, Conditioner
@@ -57,30 +60,38 @@ Pro Tipp: Beschrifte alle deine Sachen!
 
 ### Diverses
 
-* Gummihammer (zum Einschlagen von Zeltheringen)
-* Taschenlampe / Stirnlampe (inkl. Akkus und passendem Ladegerät)
-* Batterien
-* Taschenmesser / Leatherman
-* Gummistiefel
+#### Schutz
 * Sonnencreme
 * Sonnenbrille
 * Sonnenhut
 * Rettungsdecke
 * Insektenschutz
+* Gummistiefel
+
+#### Licht
+* Taschenlampe / Stirnlampe (inkl. Akkus und passendem Ladegerät)
+* Batterien
+* Laser
+* Licht oder Fahne für das Zelt zwecks Orientierung
+
+#### Strom
+* Kabeltrommel
+* Verteiler
+* Netzteil und Powerbank plus Kabel um Devices zu laden
+
+#### Sauberkeit
 * Toilettenpapier
 * Küchenrolle
 * Taschentücher
 * Reinigungstücher
 * Müllsäcke
-* Laser
-* Kabeltrommel
-* Verteiler
-* Licht oder Fahne für das Zelt zwecks Orientierung
+
+
+* Taschenmesser / Leatherman
 * Kartenspiel
 * Fächer / Ventilator
 * Arbeitshandschuhe für Auf- und Abbau
 * Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
-
 
 ### Medikamente
 
