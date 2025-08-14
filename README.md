@@ -15,6 +15,7 @@ Pro Tipp: Beschrifte alle deine Sachen!
 	- Gummihammer (zum Einschlagen von Zeltheringen)
 	- oder: Akkubohrschrauber (zum Reindrehen der Tellerkopfschrauben)
 * Isomatte
+* **Hobbit-Häuser unbedingt Isomatten und Schlafsäcke**
 * Feldbett
 * Luftmatratze
 * Schlafsack
