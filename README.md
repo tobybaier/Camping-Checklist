@@ -21,7 +21,9 @@ Pro Tipp: Beschrifte alle deine Sachen!
 * Schlafsack
 * Polster
 * Flauschedecke
+* Sitzkissen
 * Kuscheltier(e)
+* Wärmflasche (Heißes Wasser ist vorhanden)
 
 ### Kleidung
 
