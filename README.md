@@ -16,14 +16,7 @@ Pro Tipp: Beschrifte alle deine Sachen!
 	- oder: Akkubohrschrauber (zum Reindrehen der Tellerkopfschrauben)
 * Isomatte
 * **Hobbit-Häuser unbedingt Isomatten und Schlafsäcke**
-* Feldbett
-* Luftmatratze
-* Schlafsack
-* Polster
-* Flauschedecke
 * Sitzkissen
-* Kuscheltier(e)
-* Wärmflasche (Heißes Wasser ist vorhanden)
 
 ### Kleidung
 
@@ -35,7 +28,6 @@ Pro Tipp: Beschrifte alle deine Sachen!
 * Jacke
 * Schuhe (**Hausschuhe**, Sneekers, Gummistiefel, Plastikschuhe oder Flipflops zum Duschen)
 * Regenschutz
-* Badeanzug, Bikini, Badehosen
 * Pyjama
 * Schal oder Halstuch (es könnte windig werden)
 
@@ -50,11 +42,6 @@ Pro Tipp: Beschrifte alle deine Sachen!
 * Bürste/Kamm
 * Taschentücher
 * Handtücher (mindestens ein großes und ein kleines)
-* Kontaktlinsen
-	- Reinigungsflüssigkeit
-	- Behälter
-	- Ersatzlinsen
-	- Ersatzbrille
 * Brille
 	- Brillenetui
 * Oropax
@@ -69,30 +56,20 @@ Pro Tipp: Beschrifte alle deine Sachen!
 * Sonnenhut
 * Rettungsdecke
 * Insektenschutz
-* Gummistiefel
 
 #### Licht
 * Taschenlampe / Stirnlampe (inkl. Akkus und passendem Ladegerät)
 * Batterien
-* Laser
 * Licht oder Fahne für das Zelt zwecks Orientierung
 
 #### Strom
-* Kabeltrommel
-* Verteiler
 * Netzteil und Powerbank plus Kabel um Devices zu laden
 
 #### Sauberkeit
-* Toilettenpapier
-* Küchenrolle
 * Taschentücher
 * Reinigungstücher
 * Müllsäcke
-
-
 * Taschenmesser / Leatherman
-* Kartenspiel
-* Fächer / Ventilator
 * Arbeitshandschuhe für Auf- und Abbau
 * Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
 
@@ -102,7 +79,6 @@ Pro Tipp: Beschrifte alle deine Sachen!
 * Analgetikum gegen Schmerzen (Thomapyrin, Aspirin)
 * Clarityn (oder ein anderer Histaminblocker im Fall einer Allergie oder Intoleranz)
 * Neocitran/Theraflu/Paracetamol
-* Verhütungsmittel (Pille, Kondome, etc.)
 * Etwas für den Magen (Immodium, Iberogast, …)
 * Bepanthen
 * Antiseptikum (Octenisept)
